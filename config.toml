@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "MY BLOG DAWG"
 googleAnalytics = ""
 paginate = 10
-#theme = "hugo-theme-wave"
+#theme = "Intell-Analyst"
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
