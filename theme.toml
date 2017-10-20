@@ -1,6 +1,6 @@
 name = "Wave"
 license = "MIT"
-licenselink = "https://github.com/syui/hugo-theme-wave/tree/master/LICENSE"
+licenselink = "https://drwave.netlify.com/"
 description = "Hugo Themes Wave"
 homepage = "https://syui.gitlab.io"
 tags = ["blog"]
