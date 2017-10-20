@@ -8,11 +8,11 @@ paginate = 10
 [permalinks]
     post = "/:2017/:10/:20/:slug"
 
-[params]
+<!-- [params]
     location = ""
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [wave](https://drwave.netlify.com/)."
-    date_format = "2006-01-02"
+    date_format = "2006-01-02" -->
 
 [[params.menu]]
     before = true
