@@ -2,14 +2,14 @@ name = "Wave"
 license = "MIT"
 licenselink = "https://drwave.netlify.com/"
 description = "Hugo Themes Wave"
-homepage = "https://edwardchavis.netlify.com/"
+homepage = "https://syui.gitlab.io"
 tags = ["blog"]
 features = ["wave", "bootstrap", "talaria", "font-awesome", "lunr.js", "bower", "particles.js", "createjs"]
 min_version=0.15
 
 [author]
-  name = "syui"
-  homepage = "https://syui.gitlab.io"
+  name = "echavi"
+  homepage = "https://github.com/echavi32"
 
 [original]
     author = "syui"
