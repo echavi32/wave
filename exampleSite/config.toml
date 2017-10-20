@@ -45,7 +45,7 @@ theme = ""
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = ""
+    follow_button = "https://edwardchavis.netlify.com/"
 
 
 [social]
