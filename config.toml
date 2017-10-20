@@ -6,7 +6,7 @@ paginate = 10
 #theme = "Intell-Analyst"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:2017/:10/:20/:slug"
 
 [params]
     location = ""
